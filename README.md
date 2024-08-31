@@ -1,4 +1,4 @@
-# Pantaloons-clone
+# E-commerce website
 This is the frontend part of the clone of pantaloons website.
 # Technologies Used
 HTML, CSS
