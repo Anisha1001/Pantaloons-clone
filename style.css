@@ -9,7 +9,11 @@ html,body{
   width:200px;
   height:78px;
 }
+.icon{
 
+   font-size:3rem;
+  color: #00b0b5;
+}
 
 header{
   
